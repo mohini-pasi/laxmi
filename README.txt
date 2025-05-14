@@ -1,0 +1,1 @@
+This is the LaxmiFarmhouse.com project. Follow steps to run locally.
